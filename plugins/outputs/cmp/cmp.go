@@ -52,13 +52,13 @@ var translateMap = map[string]Translation{
 		Conversion: memory_used_from_available,
 	},
 	"system-load1": {
-		Name: "load-avg.1",
+		Name: "load-avg-1",
 	},
 	"system-load5": {
-		Name: "load-avg.5",
+		Name: "load-avg-5",
 	},
 	"system-load15": {
-		Name: "load-avg.15",
+		Name: "load-avg-15",
 	},
 	"disk-used.percent": {
 		Name: "disk-usage",
